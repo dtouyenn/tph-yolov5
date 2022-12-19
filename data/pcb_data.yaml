@@ -136,7 +136,6 @@ download: |
 
   def rename_dir(base_path):
       for folder in base_path.iterdir():
-          print(folder)
           if not folder.is_dir() or folder.name.startswith("."):
               continue
           name = folder.name
