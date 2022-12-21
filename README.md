@@ -32,7 +32,7 @@ $ python val.py --weights ./weights/yolov5l-xs-1.pt --img 1996 --data ./data/Vis
                                     yolov5l-xs-2.pt
 --augment --save-txt  --save-conf --task val --batch-size 8 --verbose --name v5l-xs
 ```
-![image](detect.png)
+![image](images/detect.png)
 
 # Ensemble
 If you inference dataset with different models, then you can ensemble the result by weighted boxes fusion using wbf.py.  
@@ -46,7 +46,7 @@ train.py allows you to train new model from strach.
 ```bash
 $ python train.py --img 1536 --adam --batch 4 --epochs 80 --data ./data/VisDrone.yaml --weights yolov5l.pt --hy data/hyps/hyp.VisDrone.yaml --cfg models/yolov5l-xs-tph.yaml --name v5l-xs-tph
 ```
-![image](train.png)  
+![image](images/train.png)  
 
 # Description of TPH-YOLOv5 and citation
 - https://arxiv.org/abs/2108.11539
