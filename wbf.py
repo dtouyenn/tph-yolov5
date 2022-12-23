@@ -19,7 +19,7 @@ def x1y1x2y22xywh(bbox):
     h = bbox[3] - bbox[1]
     return ([x,y,w,h])
 
-IMG_PATH = '/VisDrone2019-DET-test-challenge/images/'
+IMG_PATH = '/content/datasets/PCB_Dataset-main/images/test/'
 TXT_PATH = './runs/val/'
 
 OUT_PATH = './runs/wbf_labels/'
