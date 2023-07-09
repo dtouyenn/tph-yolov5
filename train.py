@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
 Train a YOLOv5 model on a custom dataset
@@ -1260,4 +1259,3 @@ def run(**kwargs):
 if __name__ == "__main__":
     opt = parse_opt()
     main(opt)
->>>>>>> d70cac609490493d511097d00f188b0d321f0853

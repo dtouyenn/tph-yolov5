@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
 Export a YOLOv5 PyTorch model to TorchScript, ONNX, CoreML, TensorFlow (saved_model, pb, TFLite, TF.js,) formats
@@ -732,4 +731,3 @@ def main(opt):
 if __name__ == "__main__":
     opt = parse_opt()
     main(opt)
->>>>>>> d70cac609490493d511097d00f188b0d321f0853

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
 Validate a trained YOLOv5 model accuracy on a custom dataset
@@ -718,4 +717,3 @@ def main(opt):
 if __name__ == "__main__":
     opt = parse_opt()
     main(opt)
->>>>>>> d70cac609490493d511097d00f188b0d321f0853

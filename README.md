@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TPH-YOLOv5
 This repo is the implementation of ["TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios"](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html).   
 On [VisDrone Challenge 2021](http://aiskyeye.com/), TPH-YOLOv5 wins 4th place and achieves well-matched results with 1st place model.
@@ -144,4 +144,3 @@ Thanks to their great works
 * [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 * [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
 * [WBF](https://github.com/ZFTurbo/Weighted-Boxes-Fusion)
->>>>>>> d70cac609490493d511097d00f188b0d321f0853
